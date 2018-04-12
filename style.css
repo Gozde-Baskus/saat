@@ -1,0 +1,13 @@
+#back{width: 250px;
+    height: 100px;
+    background: black;
+    margin: 0 auto;
+    border-top:solid 5px red;
+
+}
+#saat{color: white;
+      line-height:100px;
+      margin:0 auto;
+    text-align: center;
+    font-size: 35px;
+}
